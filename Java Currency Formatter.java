@@ -1,4 +1,5 @@
 // https://www.hackerrank.com/challenges/java-currency-formatter/problem
+// java 7 is used
 import java.text.NumberFormat;
 import java.util.*;
 
